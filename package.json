@@ -1,5 +1,5 @@
 {
-  "name": "opposite-osiris",
+  "name": "intergalactic-iron",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.14.5",
-    "@astrojs/check": "^0.9.3",
+    "@astrojs/check": "^0.9.2",
+    "@popperjs/core": "^2.11.8",
+    "@types/bootstrap": "^5.2.10",
+    "astro": "^4.14.2",
+    "astro-bootstrap": "^0.7.0",
+    "bootstrap": "^5.3.3",
     "typescript": "^5.5.4"
   }
 }
